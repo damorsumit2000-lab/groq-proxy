@@ -1,0 +1,6 @@
+{
+  "name": "groq-proxy",
+  "version": "1.0.0",
+  "description": "Groq API proxy for Sumit Damor portfolio",
+  "private": true
+}
